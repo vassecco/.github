@@ -1,0 +1,8 @@
+# Default org-wide CODEOWNERS fallback.
+# A repo with its own .github/CODEOWNERS file uses that instead of this one.
+#
+# Note: GitHub Free does not support CODEOWNERS enforcement (requires branch
+# protection / rulesets, which are Team/Enterprise-only on private repos).
+# This file documents ownership intent but is not currently enforced.
+
+* @cramik @vsc-jv
